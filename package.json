@@ -1,0 +1,20 @@
+{
+	"name": "vite-dynamic-import-eval",
+	"type": "module",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node eval.js",
+		"test": "vitest run"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"vitest": "^0.6.3"
+	},
+	"dependencies": {
+		"cowsay": "^1.5.0"
+	}
+}
