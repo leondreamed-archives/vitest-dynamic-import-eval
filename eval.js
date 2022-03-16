@@ -1,2 +1,2 @@
-import { cowsayEval } from "./cowsay.js";
-await cowsayEval();
+import { arrayUniqEval } from "./uniq.js";
+await arrayUniqEval();

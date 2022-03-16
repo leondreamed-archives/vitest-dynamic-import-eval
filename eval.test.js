@@ -1,6 +1,6 @@
 import { test } from "vitest";
-import { cowsayEval } from "./cowsay.js";
+import { arrayUniqEval } from "./uniq.js";
 
 test("test", async () => {
-	await cowsayEval();
+	await arrayUniqEval();
 });
