@@ -1,6 +1,6 @@
 # Vitest dynamic import error
 
-Running `cowsayEval` from `cowsay.js` using regular Node works fine, but when running it from Vitest, the following error appears:
+Running `arrayUniqEval` from `eval.js` using regular Node works fine, but when running it from Vitest, the following error appears:
 
 ![error](error.png)
 
